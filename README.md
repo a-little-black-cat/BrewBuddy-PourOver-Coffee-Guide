@@ -1,2 +1,3 @@
 # BrewBuddy-PourOver-Coffee-Guide
-BrewBuddy PourOver Coffee Guide made for Coffee Club
+BrewBuddy PourOver Coffee Guide made for Coffee Club \n
+
